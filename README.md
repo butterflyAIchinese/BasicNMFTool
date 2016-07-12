@@ -7,8 +7,8 @@ muOne, muHALF
 (2) Alternative Least Squares:
 parallelALS, fastHALS
 
-(3) Projected Gradient Descent
+(3) Projected Gradient Descent: PGD
 
-(4) Interior Point Gradient
+(4) Interior Point Gradient: IPG
 
-(5) Quasi Newton Method
+(5) Quasi Newton Method: QNM, SmoothQNM
